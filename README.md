@@ -19,16 +19,16 @@ Aplikasi menggunakan **React Native** sebagai frontend dan **Express.js** sebaga
 ## 📱 Tampilan Aplikasi
 
 ### Home
-![Home](screenshots/home.jpg)
+![Home](screenshots/home.jpeg)
 
 ### Add Movie
-![Add Movie](screenshots/add-movie.jpg)
+![Add Movie](screenshots/add-movie.jpeg)
 
 ### Detail Movie
-![Detail Movie](screenshots/detail-movie.jpg)
+![Detail Movie](screenshots/detail-movie.jpeg)
 
 ### Edit Movie
-![Edit Movie](screenshots/edit-movie.jpg)
+![Edit Movie](screenshots/edit-movie.jpeg)
 
 ## 🛠️ Teknologi
 
