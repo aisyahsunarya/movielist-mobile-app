@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment
+.env
+**/.env
+.env.*
+**/.env.*
+
+# Expo
+.expo/
+**/.expo/
+.expo-shared/
+**/.expo-shared/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# AI / Agent Tooling
+AGENTS.md
+**/AGENTS.md
+.agents/
+**/.agents/
+.claude/
+**/.claude/
+.cursor/
+**/.cursor/
+.devin/
+**/.devin/
+.windsurf/
+**/.windsurf/
+skills-lock.json
+**/skills-lock.json
+
+# Runtime uploaded movie posters
+movie-app-uts/backend/uploads/*
+!movie-app-uts/backend/uploads/.gitkeep
